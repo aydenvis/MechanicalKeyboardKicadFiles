@@ -1,4 +1,4 @@
-(module MX_Switch_Symmetric (layer F.Cu) (tedit 5D114226)
+(module MX_Switch_Symmetric (layer F.Cu) (tedit 5D13BED3)
   (fp_text reference CHERRY (at 0 3.175) (layer F.SilkS) hide
     (effects (font (size 1.27 1.524) (thickness 0.2032)))
   )

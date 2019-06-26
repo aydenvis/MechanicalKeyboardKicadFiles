@@ -1,4 +1,4 @@
-(module Diode (layer F.Cu) (tedit 5D1148EA)
+(module Diode (layer F.Cu) (tedit 5D13BF14)
   (fp_text reference REF** (at 0.254 0) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.125)))
   )
