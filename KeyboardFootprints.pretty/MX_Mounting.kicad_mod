@@ -1,0 +1,16 @@
+(module MX_Mounting (layer F.Cu) (tedit 6091A6A6)
+  (fp_text reference SW** (at -0.11684 4.9403) (layer F.SilkS) hide
+    (effects (font (size 3 3) (thickness 0.5)))
+  )
+  (fp_text value MX_Mounting (at 0.25 -8.26) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 9.398 -9.398) (end 9.398 9.398) (layer Cmts.User) (width 0.1524))
+  (fp_line (start -9.398 -9.398) (end 9.398 -9.398) (layer Cmts.User) (width 0.1524))
+  (fp_line (start 9.398 9.398) (end -9.398 9.398) (layer Cmts.User) (width 0.1524))
+  (fp_line (start -9.398 9.398) (end -9.398 -9.398) (layer Cmts.User) (width 0.1524))
+  (fp_line (start 7.00024 7) (end -7.00024 7) (layer Dwgs.User) (width 0.05))
+  (fp_line (start -7.00024 7) (end -7.00024 -7.00024) (layer Dwgs.User) (width 0.05))
+  (fp_line (start 7.00024 7) (end 6.999752 -7.00024) (layer Dwgs.User) (width 0.05))
+  (fp_line (start -7.00024 -7.00024) (end 6.999752 -7.00024) (layer Dwgs.User) (width 0.05))
+)
